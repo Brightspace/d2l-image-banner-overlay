@@ -45,7 +45,7 @@
     "polymer-cli": "^1.9.2",
     "require-dir": "^1.0.0",
     "wct-browser-legacy": "^1.0.1",
-    "whatwg-fetch": "^2.0.0"
+    "whatwg-fetch": "^3.6.2"
   },
   "version": "4.1.4",
   "resolutions": {
